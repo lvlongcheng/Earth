@@ -1,0 +1,12 @@
+{
+    "name": "earth",
+    "version": "0.1.0",
+    "description": "",
+    "displayName": "Earth",
+    "unity": "6000.0.24",
+    "author": {
+        "name": "LC",
+        "email": "lvlongcheng@163.com",
+        "url": "http://john.doe.example.com/"
+    }
+}
