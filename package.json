@@ -10,5 +10,9 @@
         "url": "https://github.com/lvlongcheng/Earth"
     }, 
     "changelogUrl": "https://github.com/lvlongcheng/Earth/blob/main/CHANGELOG.md",
-    "dependencies": {}
+    "dependencies": {},
+    "documentationUrl": "",
+    "keywords": ["earth"],
+    "samples": {},
+    "unityRelease": "f1"
 }
